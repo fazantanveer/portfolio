@@ -1,0 +1,605 @@
+
+
+ .mydark{
+    background-color: black;
+    color:white;
+    
+}
+
+#btn{
+    position: absolute;
+    margin-left: 76%;
+    margin-top: -74px;
+}
+
+.info{
+    width: 100%;
+    height: 100px;
+   
+}
+.info img{
+    width: 100%;
+    height: 620px;
+}
+
+.logo {
+    height: 125px;
+    width: 178px;
+    margin-left: 11px;
+    margin-top: -100px;
+}
+
+
+.discrept{
+    margin-left:43px;
+    margin-top:162px; 
+}
+
+.descript h2{
+    font-size: 40px;
+    color:#fff; 
+    margin-left:43px;
+    margin-top:190px;  
+}
+
+.descript p{
+    font-size: 15px;
+    color:#fff;
+    margin-left:43px;
+    margin-top:17px;
+}
+
+
+.box{
+    width: 0px;
+    height:0px;
+}
+
+.box>img{
+    width: 299px;
+    height:299px;
+    position: absolute;
+    margin-left:872px;
+    margin-top:-237px;
+}
+
+.social{
+    margin-top:32px;
+    margin-left: 3%;
+}
+
+.social a{
+    font-size:30px;
+    color:#606163;
+    margin-right: 20px;
+    border-radius: 50px;
+}
+
+.lang{
+    width: 100%;
+    height: 250px;
+    
+    margin-top: 125px;
+    margin-bottom:20px;
+  
+}
+
+h1{
+    text-align: center;
+    color:rgb(100, 115, 117);
+    margin-top: 20px;
+    font-size: 30px;
+}
+.lang >img{
+
+    width: 10%;
+    height: 84px;
+    margin-top: 45px;
+    margin-left: 6px;
+}
+
+.experiment {
+    width: 100%;
+    height: 428px;
+    margin-top: -20px;
+   
+    
+}
+
+h3{
+    text-align: center;
+    color:rgb(100, 115, 117);
+    font-size: 30px;
+    margin-top:0px;
+}
+
+.experiment  img{
+    width: 401px;
+    height: 264px;
+    margin-top: 5px;
+    margin-left: 150px;
+    float: left;
+}
+
+.right{
+    position:absolute;
+    margin-top: 295px;
+    margin-left: -248px;
+}
+  
+
+
+.left{
+    position:absolute;
+    margin-top: 295px;
+    margin-left: -248px;
+}
+
+.Education{
+    width: 100%;
+    height:340px;
+    
+    margin-top: -33px;
+
+}
+
+h4{
+    text-align: center;
+    color:rgb(100, 115, 117);
+}
+
+.Education .spec{
+    
+    position: absolute;
+    margin-top: -16px;
+    margin-left: 39%;
+}
+
+.Education .higher{
+    position: absolute;
+    margin-top: -16px;
+    margin-left: 41%;
+}
+ .Education p{
+    text-align:center;
+}
+
+
+.hobbies{
+    width: 100%;
+    height:225px;
+   
+}
+
+.hobbies img{
+    width: 10%;
+    height: 110px;
+    margin-top: 0px;
+    margin-left: 174px;
+    margin-right: -50px;
+    
+}
+.map{
+    width: 100%;
+    height: 200px;
+}
+.map h3 {
+    margin-top: -11px;
+}
+.map p iframe{
+    width: 100%;
+    height: 300px;
+}
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1205px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     .box>img {
+        margin-left: 835px;
+     }
+  
+}
+@media screen and (max-width:1180px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     .box>img {
+        margin-left: 800px;
+     }
+  
+}
+
+
+@media screen and (max-width:1150px) {
+
+    body {
+     background-color:rgb(249, 204, 236)
+     } 
+
+     .box>img {
+        margin-left: 780px;
+    }
+
+    .lang >img {
+        
+        margin-left: 7px;
+    }
+
+    .experiment img {
+
+        margin-left: 106px;
+    }
+    
+}
+
+@media screen and (max-width:1100px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     .box>img {
+            width: 285px;
+            margin-left: 743px;
+     }
+
+     .experiment img {
+        margin-left: 89px;
+    }
+
+     .hobbies img {
+        margin-left: 155px;
+     }
+  
+}
+
+@media screen and (max-width:1080px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     .box>img {
+        
+            width: 276px;
+            margin-left: 721px;
+      
+     }
+  
+}
+
+@media screen and (max-width:1035px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     .box>img {
+        
+            width: 276px;
+            margin-left: 705px;
+      
+     }
+
+     .experiment img {
+        margin-left: 66px;
+    }
+  
+}
+
+
+@media screen and (max-width:990px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     .box>img {
+    
+            width: 237px;
+            margin-left: 675px;
+      
+     }
+
+     .lang >img {
+        margin-left: 5px;
+    }
+
+
+    .experiment img {
+        margin-left: 161px;
+        width: 631px;
+        height: 295px;
+        margin-top: 41px;
+        justify-items: 60px;
+    }
+
+
+    .Education {
+        margin-top: 360px;
+    }
+
+
+    .left {
+        margin-top: 683px;
+        margin-left: -378px;
+    }
+
+
+    .right {
+        margin-top: 344px;
+        margin-left: -328px;
+    }
+
+    .Education .spec {
+        margin-left: 35%;
+    }
+
+    .Education .higher {
+        margin-left: 37%;
+    }
+    
+    #btn {
+      
+        margin-left: 70%;
+    }
+}
+
+
+@media screen and (max-width:900px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     .box>img {
+        margin-top: -381px;
+        margin-left: 321px;
+     }
+
+    .experiment img {
+        margin-left: 104px;
+  
+    }
+
+    .descript h2 {
+
+        margin-left: 278px;
+        margin-top: -50px;
+    }
+   
+
+    .descript p {
+        margin-left: 125px;
+        margin-top: 319px;
+    }
+
+    .social {
+        
+        margin-left: 44%;
+    }
+
+    .hobbies img {
+        margin-left: 129px;
+    }
+
+    h1 {
+        
+        margin-top: -42px;
+       
+    }
+
+    .lang {
+        
+        margin-bottom: 0px;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+
+    body {
+     background-color:rgb(249, 204, 236)
+     } 
+
+     #btn {
+        margin-left: 61%;
+    }
+
+    .descript h2 {
+        margin-left: 198px;
+        margin-top: -29px;
+    }
+
+    .box>img {
+        margin-top: -404px;
+        margin-left: 240px;
+    }
+
+    .descript p {
+        margin-left: 42px;
+        margin-top: 347px;
+    }
+
+    .lang {
+        
+        margin-top: 75px;
+    }
+
+    .lang >img {
+        margin-left: 10px;
+        width: 9%;
+        height: 84px;
+        margin-top: 7px;
+    }
+
+
+    h3 {
+        
+        margin-top: -78px;
+    }
+
+    .experiment img {
+        margin-left: 40px;
+        margin-top: -19px;
+        margin-bottom: 100px;
+    }
+
+    .left {
+        margin-top: 693px;
+    }
+
+    .right {
+        margin-top: 310px;
+    }
+
+    h3 {
+        margin-top: 6px;
+    }
+
+    .Education .spec {
+        margin-left: 28%;
+    }
+
+    .Education .higher {
+        margin-left: 34%;
+    }
+
+    .hobbies img {
+        margin-left: 110px;
+    }
+}
+
+
+@media screen and (max-width:600px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+
+     #btn {
+        margin-left: 53%;
+    }
+
+    .descript h2 {
+        margin-left: 113px;
+        margin-top: -24px;
+    }
+
+    .box>img {
+        margin-top: -368px;
+        margin-left: 160px;
+    }
+
+    .descript p {
+        font-size: 12px;
+        margin-left: 25px;
+        margin-top: 339px;
+    }
+
+    .social {
+        margin-left: 37%;
+    }
+
+    .lang >img {
+        margin-left: 28px;
+        width: 14%;
+    }
+
+    h3 {
+        margin-top: 33px;
+    }
+
+    .experiment img {
+        margin-left: 25px;
+        margin-top: -19px;
+        width: 496px;
+    }
+
+    .right {
+    
+        margin-left: -279px;
+    }
+
+    .left {
+        margin-top: 685px;
+        margin-left: -326px;
+    }
+    .Education .spec {
+        margin-left: 22%;
+    }
+    .Education .spec {
+        margin-left: 22%;
+    }
+
+    .Education .higher {
+        margin-left: 29%;
+    }
+
+    .hobbies img {
+        width: 12%;
+        margin-left: 84px;
+    }
+ }
+
+ @media screen and (max-width:500px){
+
+
+    body{
+        background-color: lightblue;
+    }
+
+    #btn {
+        margin-left: 46%;
+    }
+    .descript h2 {
+        margin-left: 78px;
+    }
+    .box>img {
+        margin-top: -374px;
+        margin-left: 126px;
+    }
+
+    .descript p {
+        font-size: 10px;
+        margin-left: 33px;
+    }
+    .lang >img {
+        margin-left: 23px;
+     
+    }
+    .experiment img {
+        margin-left: 17px;
+        width: 438px;
+    }
+
+    .left {
+        margin-top: 675px;
+        margin-left: -260px;
+    }
+
+    .right {
+        margin-left: -239px;
+    }
+ }
